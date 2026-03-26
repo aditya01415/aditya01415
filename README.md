@@ -11,13 +11,7 @@
       <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" />
     </linearGradient>
-    <!-- <style>
-      @keyframes float {
-        0%, 100% { transform: translateY(0px) scale(1); }
-        50% { transform: translateY(-20px) scale(1.02); }
-      }
-      .floating-orb { animation: float 3s ease-in-out infinite; }
-    </style> -->
+   
   </defs>
   
   <!-- Floating orbs animation -->
@@ -157,7 +151,7 @@ I'm a passionate **Full-Stack Developer** from India with expertise in **MERN St
 
 ### 🔗 Professional Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Aditya01415.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Aditya01415.github.io/Portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](./Aditya_Yadav_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.aditya8787@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-yadav-63b550327)
@@ -203,7 +197,7 @@ I'm a passionate **Full-Stack Developer** from India with expertise in **MERN St
 | **Frontend** | React.js, HTML5, CSS3, Responsive Design |
 | **Backend** | Node.js, Express, RESTful APIs |
 | **Databases** | MongoDB, SQL |
-| **Tools** | Git, GitHub, VS Code, Postman |
+| **Tools** | Git, GitHub, VS Code |
 | **Platforms** | Vercel, Netlify, Render |
 | **Specialties** | MERN Stack, Full-Stack Development, DSA |
 
