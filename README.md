@@ -31,11 +31,13 @@
   </g>
 </svg>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</div>
 <!-- Animated Typing Text -->
 <div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3500&pause=500&color=38BDF8&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=140&lines=%E2%9C%A8+Welcome+to+My+Digital+Space!+%E2%9C%A8;%F0%9F%92%BB+Crafting+Innovation%2C+Building+Dreams;%F0%9F%9A%80+Let's+Create+Something+Extraordinary!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=1250&height=140&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Yadav;Full+Stack+MERN+Developer;Building+Modern+%26+Scalable+Web+Applications;300%2B+DSA+Problems+Solved;Open+Source+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 </div>
 <!-- Enhanced Colorful Badges -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 25px 0;">
@@ -60,7 +62,7 @@ I'm a passionate **Full-Stack Developer** from India with expertise in **MERN St
 ### 🚀 Quick Highlights
 
 - 🎓 **B.Tech CSE** Student at **Dr. A.P.J. Abdul Kalam Technical University** (GPA: 8+)
-- 💪 **160+ DSA problems** solved across LeetCode, GeeksforGeeks & CodeChef
+- 💪 **300+ DSA problems** solved across LeetCode, GeeksforGeeks & CodeChef
 - 🔧 Proficient in **C++, Python, JavaScript, React.js, Node.js & Git**
 - ☁️ Deployment Expertise: **Vercel, Netlify, Render**
 - 📱 Full-Stack Developer specializing in **MERN Stack**
@@ -117,6 +119,12 @@ I'm a passionate **Full-Stack Developer** from India with expertise in **MERN St
 
 ---
 
+# 🧠 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/official_aditya1415?theme=dark&font=Nunito&ext=contest" />
+</p>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -134,6 +142,15 @@ I'm a passionate **Full-Stack Developer** from India with expertise in **MERN St
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aditya01415&theme=tokyonight&hide_border=false&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8&border=38BDF8)
 
 </div>
+
+# 🐍 Snake Contribution Animation
+
+<div align="center">
+
+![Snake animation](https://github.com/aditya01415/aditya01415/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 
 ### 📈 Contribution Graph
 
